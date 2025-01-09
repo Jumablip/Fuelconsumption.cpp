@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Fuelconsumption.cpp",
+            "binaryPath": "c:\\Fuelconsumption.cpp\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
